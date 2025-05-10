@@ -1,5 +1,5 @@
 title: Sunny Jin
-baseurl: "/portfolio"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -7,7 +7,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: no
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/sunnyj41"
 footer_text: "Template by Ankit Sultana"
 
 sass:
@@ -16,6 +16,6 @@ sass:
 
 nav:
  - name: "About"
-   link: "/portfolio/"
+   link: "/"
  - name: "Projects"
-   link: "/portfolio/projects"
+   link: "/projects"
