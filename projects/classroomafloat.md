@@ -7,70 +7,70 @@ layout: default
 <div class="carousel-container">
   <div class="carousel">
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom.png" alt="">
+      <img src="/assets/classroom.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom1.png" alt="">
+      <img src="/assets/classroom1.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom2.png" alt="">
+      <img src="/assets/classroom2.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom3.png" alt="">
+      <img src="/assets/classroom3.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom4.png" alt="">
+      <img src="/assets/classroom4.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom5.png" alt="">
+      <img src="/assets/classroom5.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom6.png" alt="">
+      <img src="/assets/classroom6.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom7.png" alt="">
+      <img src="/assets/classroom7.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom8.png" alt="">
+      <img src="/assets/classroom8.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom9.png" alt="">
+      <img src="/assets/classroom9.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom10.png" alt="">
+      <img src="/assets/classroom10.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom11.png" alt="">
+      <img src="/assets/classroom11.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom12.png" alt="">
+      <img src="/assets/classroom12.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom13.png" alt="">
+      <img src="/assets/classroom13.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom14.png" alt="">
+      <img src="/assets/classroom14.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom15.png" alt="">
+      <img src="/assets/classroom15.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom16.png" alt="">
+      <img src="/assets/classroom16.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom17.png" alt="">
+      <img src="/assets/classroom17.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom18.png" alt="">
+      <img src="/assets/classroom18.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom19.png" alt="">
+      <img src="/assets/classroom19.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom20.png" alt="">
+      <img src="/assets/classroom20.png" alt="">
     </div>
     <div class="carousel-item">
-      <img src="/portfolio/assets/classroom21.png" alt="">
+      <img src="/assets/classroom21.png" alt="">
     </div>
   </div>
   <button class="carousel-button prev">❮</button>
