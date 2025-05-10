@@ -170,7 +170,7 @@ Lance Powell (project manager), Shyanne Russell (3D artist)
 
 &nbsp;
 
-[[back]](/projects)
+[[back]](../projects)
 
 &nbsp;
 
