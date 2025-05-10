@@ -9,6 +9,7 @@ layout: default
   height="400" 
   src="https://drive.google.com/file/d/1KML-Twu507EY0JZIl7i4dkCKt3GaFxpM/preview" 
   allow="autoplay"
+  allowfullscreen
   style="border: none;">
 </iframe>
 
