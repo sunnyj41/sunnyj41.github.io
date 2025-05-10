@@ -42,7 +42,7 @@ Elijah Whitsett
 
 &nbsp;
 
-[[back]](/portfolio/projects)
+[[back]](/projects)
 
 &nbsp;
 
