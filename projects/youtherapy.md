@@ -34,7 +34,7 @@ Memory: Models remember all the previous entries you upload, which is the knowle
 
 &nbsp;
 
-[[back]](../projects)
+[[back]](/projects)
 
 &nbsp;
 
