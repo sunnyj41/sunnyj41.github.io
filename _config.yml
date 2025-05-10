@@ -1,0 +1,22 @@
+title: Sunny Jin
+url: "https://ankitsultana.com"
+baseurl: "/portfolio"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Template by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/portfolio/"
+ - name: "Projects"
+   link: "/portfolio/projects"
