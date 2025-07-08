@@ -4,6 +4,7 @@ layout: default
 
 ### AI friends for mental wellbeing
 
+<img src="/assets/aifriend.png" alt="AI Friend" style="width: 300px; height: auto;">
 
 AI friends in a fantasy world, equipped to help with mental health conditions: depression, anxiety, OCD, bipolar, PTSD, ADHD
 
