@@ -4,6 +4,8 @@ layout: default
 
 ## Projects
 
+**ai friends** - AI friends for mental wellbeing [[demo]](/projects/aifriend)
+
 **therappi** - personalized AI therapy created using journal entries [[demo]](/projects/therappi)
 
 **you in therapy** - see how your digital copy acts in a therapy session [[demo]](/projects/youtherapy)
