@@ -2,12 +2,12 @@
 layout: default
 ---
 
-### Therappi
+### Personalized AI Therapy
 
 <iframe 
   width="100%" 
   height="400" 
-  src="https://drive.google.com/file/d/1KML-Twu507EY0JZIl7i4dkCKt3GaFxpM/preview" 
+  src="https://drive.google.com/file/d/1rNZK4FprzN2QhLqjeXwK0rTm3DLPq0wk/view?usp=sharing"
   allow="autoplay"
   allowfullscreen
   style="border: none;">
