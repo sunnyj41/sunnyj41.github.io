@@ -7,7 +7,7 @@ layout: default
 <iframe 
   width="100%" 
   height="400" 
-  src="https://drive.google.com/file/d/1rNZK4FprzN2QhLqjeXwK0rTm3DLPq0wk/view?usp=sharing"
+  src="https://drive.google.com/file/d/1rNZK4FprzN2QhLqjeXwK0rTm3DLPq0wk/view"
   allow="autoplay"
   allowfullscreen
   style="border: none;">
