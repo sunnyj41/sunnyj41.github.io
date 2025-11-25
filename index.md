@@ -11,7 +11,7 @@ Focused on the intersection of neuroscience, technology, and education
 
 &nbsp;
 
-Currently building for AI + mental health
+Building for AI + mental health
 
 &nbsp;
 
